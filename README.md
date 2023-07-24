@@ -9,7 +9,7 @@
 
 - [Descrição do projeto](#descrição-do-projeto)
 
-- [Pré-requisitos](#[pré-requisitos)
+- [Pré-requisitos](#[pre-requisitos)
 
 - [Configuração do Banco de Dados](#aplicação)
 
