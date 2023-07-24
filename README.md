@@ -13,11 +13,11 @@
 
 - [Configuração do Banco de Dados](#Configuração-do-Banco-de-Dados)
 
-- [Executando a Aplicação](#ferramentas-e-tecnolgoias-utilizadas)
+- [Executando a Aplicação](#Executando-a-Aplicação)
 
-- [Estrutura do Arquivo CSV](#acesso-ao-projeto)
+- [Estrutura do Arquivo CSV](#Estrutura-do-Arquivo-CSV)
 
-- [Considerações Finais](#abrir-e-rodar-o-projeto)
+- [Considerações Finais](#Considerações-Finais)
 
 - [Desenvolvedores](#desenvolvedores)
 
