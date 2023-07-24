@@ -39,9 +39,9 @@ Antes de executar a aplicação, você precisa configurar os bancos de dados. Ce
      spring.datasource.username=seu_usuario<br>
      spring.datasource.password=sua_senha
      
-  3. Banco de dados para a tabela "pessoas":
-     app.pessoas.datasource.url=jdbc:mysql://localhost:3306/meu_banco_de_dados
-     app.pessoas.datasource.username=seu_usuario
+  3. Banco de dados para a tabela "pessoas":<br>
+     app.pessoas.datasource.url=jdbc:mysql://localhost:3306/meu_banco_de_dados<br>
+     app.pessoas.datasource.username=seu_usuario<br>
      app.pessoas.datasource.password=sua_senha
 
 ## Executando a Aplicação
