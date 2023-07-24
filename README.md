@@ -11,7 +11,7 @@
 
 - [Pré-requisitos](#pré-requisitos)
 
-- [Configuração do Banco de Dados](#aplicação)
+- [Configuração do Banco de Dados](#Configuração do Banco de Dados)
 
 - [Executando a Aplicação](#ferramentas-e-tecnolgoias-utilizadas)
 
