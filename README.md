@@ -34,9 +34,9 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina antes d
 ## Configuração do Banco de Dados
 Antes de executar a aplicação, você precisa configurar os bancos de dados. Certifique-se de ter os bancos de dados criados e atualize as configurações de conexão em application.properties.
 
-  1. Banco de dados para tabelas padrão do Spring Batch:
-     spring.datasource.url=jdbc:mysql://localhost:3306/spring_batch_metadata
-     spring.datasource.username=seu_usuario
+  1. Banco de dados para tabelas padrão do Spring Batch:<br>
+     spring.datasource.url=jdbc:mysql://localhost:3306/spring_batch_metadata<br>
+     spring.datasource.username=seu_usuario<br>
      spring.datasource.password=sua_senha
      
   3. Banco de dados para a tabela "pessoas":
