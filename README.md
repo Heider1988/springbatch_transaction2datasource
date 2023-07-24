@@ -1,13 +1,37 @@
+<p align="center">
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="120" height="120"/>
+ <br>
+<img src="http://img.shields.io/static/v1?label=STATUS%20DO%20PROJETO&message=CONCLUIDO&color=GREEN&style=for-the-badge" width="300" height="100"/>
+</p>
+
+### Tópicos 
+
+- [Descrição do projeto](#descrição-do-projeto)
+
+- [Pré-requisitos](#funcionalidades)
+
+- [Configuração do Banco de Dados](#aplicação)
+
+- [Executando a Aplicação](#ferramentas-e-tecnolgoias-utilizadas)
+
+- [Estrutura do Arquivo CSV](#acesso-ao-projeto)
+
+- [Considerações Finais](#abrir-e-rodar-o-projeto)
+
+- [Desenvolvedores](#desenvolvedores)
+
+## Descrição do projeto
 # Spring Batch - Importação de Arquivo CSV para o Banco de Dados
 Este repositório contém uma aplicação Spring Batch que lê um arquivo CSV contendo informações de 10 mil pessoas e grava esses dados na tabela "pessoas" de um banco de dados. Além disso, a aplicação utiliza outro banco de dados separado para armazenar as tabelas padrão criadas automaticamente pelo Spring Batch.
 
-# Pré-requisitos
+## Pré-requisitos
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina antes de prosseguir:
 1.Java JDK 8 ou superior
 2.Maven
 3.Banco de dados (por exemplo, MySQL, PostgreSQL, etc.)
 
-# Configuração do Banco de Dados
+## Configuração do Banco de Dados
 Antes de executar a aplicação, você precisa configurar os bancos de dados. Certifique-se de ter os bancos de dados criados e atualize as configurações de conexão em application.properties.
 
   1. Banco de dados para tabelas padrão do Spring Batch:
@@ -20,16 +44,16 @@ Antes de executar a aplicação, você precisa configurar os bancos de dados. Ce
      app.pessoas.datasource.username=seu_usuario
      app.pessoas.datasource.password=sua_senha
 
-# Executando a Aplicação
+## Executando a Aplicação
 Siga os passos abaixo para executar a aplicação:
 1.Clone este repositório para sua máquina local.
 2. Navegue até o diretório do projeto.
 3. Compile o projeto usando o Maven: mvn clean package
 
-# Estrutura do Arquivo CSV
+## Estrutura do Arquivo CSV
 nome, email, data_nascimento, idade e id
 
-# Considerações Finais
+## Considerações Finais
 Esta aplicação utiliza o Spring Batch para processar grandes volumes de dados de forma eficiente. O processo de importação do arquivo CSV é dividido em etapas (leitura, processamento e gravação), o que permite um melhor controle do processo e possibilita a recuperação de falhas em caso de problemas.
 
 Certifique-se de ajustar as configurações do banco de dados e o formato do arquivo CSV, caso necessário, para que a importação ocorra com sucesso.
