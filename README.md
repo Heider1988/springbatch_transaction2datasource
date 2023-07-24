@@ -37,3 +37,22 @@ Certifique-se de ajustar as configurações do banco de dados e o formato do arq
 Em caso de dúvidas ou problemas, sinta-se à vontade para abrir uma "issue" neste repositório ou entrar em contato com o desenvolvedor.
 
 Aproveite a aplicação Spring Batch para importar seus dados com facilidade e eficiência!
+
+## Desenvolvedores
+<div id="badges">
+ :heavy_check_mark: Heider Oliveira 
+ <br>
+  <img src="https://avatars.githubusercontent.com/u/33627744?v=4" width=130>
+ <br>
+  <a target="_blank" href="https://www.linkedin.com/in/heider1988/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/ width="130">
+  </a>
+ <br>
+  <a target="_blank" href="https://www.instagram.com/heider.oliveira/">
+  <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/ width="130">
+  </a>
+ <br>
+  <a target="_blank" href="https://www.youtube.com/channel/UCAIx0AsetLKoPyyAGDTcZCQ">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube"/ width="130">
+  </a>
+</div>
