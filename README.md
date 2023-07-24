@@ -9,7 +9,7 @@
 
 - [Descrição do projeto](#descrição-do-projeto)
 
-- [Pré-requisitos](#[pre-requisitos)
+- [Pré-requisitos](#pré-requisitos)
 
 - [Configuração do Banco de Dados](#aplicação)
 
@@ -25,7 +25,7 @@
 # Spring Batch - Importação de Arquivo CSV para o Banco de Dados
 Este repositório contém uma aplicação Spring Batch que lê um arquivo CSV contendo informações de 10 mil pessoas e grava esses dados na tabela "pessoas" de um banco de dados. Além disso, a aplicação utiliza outro banco de dados separado para armazenar as tabelas padrão criadas automaticamente pelo Spring Batch.
 
-## Pre-requisitos
+## Pré-requisitos
 Certifique-se de ter as seguintes ferramentas instaladas em sua máquina antes de prosseguir:
 1.Java JDK 8 ou superior
 2.Maven
